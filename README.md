@@ -88,7 +88,7 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 
 ### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open
 
-Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp. See [FAQ](./faq.md) for alternatives. ***Doing Full stack open instead***
+Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp. See [FAQ](./faq.md) for alternatives. Do Full stack open instead
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
